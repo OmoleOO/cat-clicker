@@ -79,7 +79,6 @@ body {
 }
 
 aside {
-    height: 100%;
     position: absolute;
     background-color: cadetblue;
     z-index: 2;
